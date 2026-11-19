@@ -1,0 +1,5 @@
+echo Budi Santoso> employees.txt
+echo Siti Aminah>> employees.txt
+echo Andi Wijaya>> employees.txt
+echo Dewi Lestari>> employees.txt
+echo Rahmat Hidayat>> employees.txt
